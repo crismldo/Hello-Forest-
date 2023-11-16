@@ -18,4 +18,4 @@ Las tecnologías que utilicé, son: <img src="https://img.shields.io/badge/HTML5
 Aprender a crear páginas que se adapten a las necesidades del usuario sin perder su forma.
 
 ### 4. Link a demo
-En el siguiente link puedes ver mi proyecto terminado: [Clon de Google](https://clondegoogle-henna.vercel.app/)
+En el siguiente link puedes ver mi proyecto terminado: [Clon de Google](https://hello-forest-theta.vercel.app/)
